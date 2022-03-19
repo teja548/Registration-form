@@ -3,4 +3,4 @@ created Html file & added input form & buttons and classes to that,then add some
 
 
 >Step1 : Technologies used 
-`HTML`
+`Html` `Css` `Javascript`
