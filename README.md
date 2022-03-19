@@ -8,7 +8,4 @@ created Html file & added input form & buttons and classes to that,then add some
 >Step2 : There are 3 files touched
 `index.html` `styles.css` `script.js`
 
-erDiagram
-    CUSTOMER ||--o{ ORDER : places
-    ORDER ||--|{ LINE-ITEM : contains
-    CUSTOMER }|..|{ DELIVERY-ADDRESS : uses
+
