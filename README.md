@@ -12,7 +12,7 @@ Created Html file & added input form & buttons and classes to that,then add some
 
 ```mermaid
 graph TD;
-    A-->B;
-    A-->C;
-    B-->D;
-    C-->D;
+    Index.html-->Css;
+    Index.html-->Script.js;
+    Css-->Deploy;
+    Script.js-->Deploy;
