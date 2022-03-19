@@ -3,3 +3,4 @@ created Html file & added input form & buttons and classes to that,then add some
 
 Planning
 Step1 : Technologies used html,css and javascript
+Step2:
